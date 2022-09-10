@@ -1,4 +1,4 @@
-# Resources for engineers who want to step off the beaten path.
+# Resources for engineers who want to dig a bit deeper.
 
 ## Build Your Own X
 - https://github.com/codecrafters-io/build-your-own-x
